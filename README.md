@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bobotnik
 - 👀 I’m interested in Software testing and development
-- 🌱 I’m currently learning Kotlin, Python, QA
+- 🌱 I’m currently learning JavaScript, TypeScript, QA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email : boretomail@gmail.com
 
